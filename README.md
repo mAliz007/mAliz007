@@ -14,24 +14,77 @@
 
 ---
 
+<!-- Animated Tech Stack Ticker (Dark / Neon Cyan Theme) -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,express,ruby,rails,postgres,mongodb,redis,docker&perline=14&theme=dark" />
+  </a>
+  <br/>
+</div>
+
+---
+
 ### About Me
 
 Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid frontend iteration with enterprise-grade backend stability.
 
 * **Current Focus:** Scalable backend architectures, RESTful API design, and fintech payment workflows.
-* **Industry Experience:** Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients[cite: 1].
-* **Education:** BS in Computer Science, **Air University, Islamabad**[cite: 1].
+* **Industry Experience:** Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients.
+* **Education:** BS in Computer Science, **Air University, Islamabad**.
 * **Core Principles:** Type safety, high throughput, clean architecture, and documented engineering workflows.
 
 ---
 
-<!-- Animated Tech Stack Ticker (Dark / Neon Cyan Theme) -->
+### Technical Skills
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,express,ruby,rails,postgres,mongodb,git,docker&perline=14&theme=dark" />
-  </a>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=650&lines=⚡+Java+•+Spring+Boot+•+TypeScript+•+React.js+•+Next.js;⚡+Node.js+•+Ruby+on+Rails+•+PostgreSQL+•+MongoDB;⚡+REST+APIs+•+WebSockets+•+JWT+•+Docker+•+Git" alt="Tech Stack Ticker" />
+
+**Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Frameworks & Libraries**
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor_WASM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Databases & Caching**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Cloud, DevOps & Protocols**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
 </div>
 
 ---
@@ -40,8 +93,8 @@ Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid
 
 | Project | Stack | Key Architecture & Achievements |
 | :--- | :--- | :--- |
-| [**SplitPay**](https://github.com/mAliz007/SplitPayBackend) | Java Spring Boot, Blazor WASM, MongoDB[cite: 1] | Synchronous multi-card processing gateway integrating Safepay API for split transactions with zero ledger reconciliation errors[cite: 1]. |
-| [**Asset Aware**](https://github.com/mAliz007/Asset-Aware-Security-Intelligence) | Spring Boot, Neon PostgreSQL, Spring Security[cite: 1] | Automated threat intelligence ETL ingestion engine utilizing Spring `@Scheduled` cron jobs to fetch and normalize CISA advisories[cite: 1]. |
+| [**SplitPay**](https://github.com/mAliz007/SplitPayBackend) | Java Spring Boot, Blazor WASM, MongoDB | Synchronous multi-card processing gateway integrating Safepay API for split transactions with zero ledger reconciliation errors. |
+| [**Asset Aware**](https://github.com/mAliz007/Asset-Aware-Security-Intelligence) | Spring Boot, Neon PostgreSQL, Spring Security | Automated threat intelligence ETL ingestion engine utilizing Spring `@Scheduled` cron jobs to fetch and normalize CISA advisories. |
 | [**Subscription Tracker Backend**](https://github.com/mAliz007/subscription-tracker) | Java Spring Boot, REST APIs, SQL | Production-ready RESTful service engineered to catalog active recurring expenses, monitor dynamic billing cycles, and automate renewal tracking. |
 
 ---
