@@ -18,14 +18,20 @@
 
 Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid frontend iteration with enterprise-grade backend stability.
 
-* **Current Focus:** Scalable backend architectures, real-time WebSocket communication, and fintech payment workflows.
-* **Industry Experience:** Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients.
+* **Current Focus:** Scalable backend architectures, RESTful API design, and fintech payment workflows.
+* **Industry Experience:** Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients[cite: 1].
 * **Education:** BS in Computer Science, **Air University, Islamabad**[cite: 1].
-* **Core Principles:** Type safety, sub-second latency, clean architecture, and documented engineering workflows.
+* **Core Principles:** Type safety, high throughput, clean architecture, and documented engineering workflows.
 
 ---
 
 ### Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,next,nodejs,express,ruby,rails,postgres,mongodb,git,docker&theme=dark" />
+</div>
+
+<br/>
 
 **Languages**
 <p>
@@ -56,7 +62,7 @@ Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
@@ -66,6 +72,20 @@ Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid
 
 | Project | Stack | Key Architecture & Achievements |
 | :--- | :--- | :--- |
-| [**SplitPay**](https://github.com/YOUR_GITHUB_USERNAME/SplitPay) | Java Spring Boot, Blazor WASM, MongoDB[cite: 1] | Synchronous card processing gateway using Safepay API integration with zero ledger reconciliation errors[cite: 1]. |
-| [**Asset Aware**](https://github.com/YOUR_GITHUB_USERNAME/Asset-Aware) | Spring Boot, Neon PostgreSQL, Spring Security[cite: 1] | Automated threat intelligence ETL ingestion engine utilizing Spring `@Scheduled` cron jobs to fetch and normalize CISA advisories[cite: 1]. |
-| [**Real-Time Chess Platform**](https://github.com/YOUR_GITHUB_USERNAME/Real-Time-Chess) | React.js, Node.js, WebSockets, MongoDB[cite: 1] | Multiplayer PvP engine transmitting atomic game payloads with sub-100ms latency via persistent WebSocket connections[cite: 1]. |
+| [**SplitPay**](https://github.com/mAliz007/SplitPayBackend) | Java Spring Boot, Blazor WASM, MongoDB[cite: 1] | Synchronous multi-card processing gateway integrating Safepay API for split transactions with zero ledger reconciliation errors[cite: 1]. |
+| [**Asset Aware**](https://github.com/mAliz007/Asset-Aware-Security-Intelligence) | Spring Boot, Neon PostgreSQL, Spring Security[cite: 1] | Automated threat intelligence ETL ingestion engine utilizing Spring `@Scheduled` cron jobs to fetch and normalize CISA advisories[cite: 1]. |
+| [**Subscription Tracker Backend**](https://github.com/mAliz007/subscription-tracker) | Java Spring Boot, REST APIs, SQL | Production-ready RESTful service engineered to catalog active recurring expenses, monitor dynamic billing cycles, and automate renewal tracking. |
+
+---
+
+### Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mAliz007&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
+</div>
