@@ -101,8 +101,10 @@ Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid
 
 ### Contribution Activity
 
+
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mAliz007&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mAliz007&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=94A3B8&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
