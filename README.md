@@ -29,7 +29,7 @@
 Delivery-focused **Full-Stack Software Engineer** specializing in bridging rapid frontend iteration with enterprise-grade backend stability.
 
 * **Current Focus:** Scalable backend architectures, RESTful API design, and fintech payment workflows.
-* **Industry Experience: ** MERN Stack Developer at **7Vals** | ** Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients.
+* **Industry Experience:** MERN Stack Developer at **7Vals** | Software Engineering Intern at **7Vals** | Freelance Software Engineer for startup clients.
 * **Education:** BS in Computer Science, **Air University, Islamabad**.
 * **Core Principles:** Type safety, high throughput, clean architecture, and documented engineering workflows.
 
